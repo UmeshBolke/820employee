@@ -3,7 +3,7 @@ import './App.css'
 import Welcome from './Components/Welcome'
 import Login from './Components/Login'
 import Register from './Components/Register'
-import EmployeeDashboard from './Components/EmployeeDashboard'
+import EmployeeDashboard from './components/EmployeeDashboard'
 
 function App() {
 
